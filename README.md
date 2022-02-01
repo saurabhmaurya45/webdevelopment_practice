@@ -1,2 +1,2 @@
-# webdevelopment_practice
-Practicing HTML | CSS | JavaScript
+# Web Development Practice
+Practicing HTML || CSS || JavaScript
